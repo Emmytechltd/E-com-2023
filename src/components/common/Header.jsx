@@ -108,7 +108,7 @@ export const Header = () => {
                         <div className='details_content_detail'>
                           <div className='details_content_detail_price'>
                             <p>{e.title.slice(0, 20)}...</p>
-                            <p>Price : ${e.price}</p>
+                            <p>Price : #{e.price}</p>
                             <p>Quantity : {e.qty}</p>
                           </div>
                         </div>
@@ -120,7 +120,7 @@ export const Header = () => {
                       </div>
                     ))}
                     <div className='details_total'>
-                      <h4>Total : ${price}</h4>
+                      <h4>Total : #{price}</h4>
                     </div>
                   </section>
                 ) : (

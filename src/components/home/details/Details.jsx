@@ -86,10 +86,10 @@ export const Details = () => {
                       <p> Dell Laptop: Core i3 3440, Dell</p>
                     </li>
                     <li>
-                      <p>Legs: Lacquered oak and black painted oak</p>
+                      <p>13inches, sleek and long lasting battery with hdmi port</p>
                     </li>
                     <li>
-                      <p>Dimensions and Weight: Height: 80 cm, Weight: 5.3 kg</p>
+                      <p>Dell latitude</p>
                     </li>
                     <li>
                       <p>Length: 48cm</p>

@@ -26,7 +26,7 @@ export const TopProduct = () => {
       <section className='topproduct'>
         <div className='container'>
           <div className='head'>
-            <Heading title='Top Selling Products' desc='Meet our newbies! The latest templates uploaded to the marketplace.' />
+            <Heading title='Top Selling Products' desc='Stay Glued to Our latest Available Products!!' />
             <div className='category'>
               {category.map((category) => (
                 <button className='button' onClick={() => handleFilter(category)}>

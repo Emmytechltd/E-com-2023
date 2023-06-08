@@ -9,7 +9,7 @@ export const Product = () => {
     <>
       <section className='product'>
         <div className='container'>
-          <Heading title='Trendings Products' desc='Check the hottest designs of the week. These rising stars are worth your attention.' />
+          <Heading title='Trending Products' desc='Check Out the Coolest Gadgets and Laptops👨‍💻💻.' />
 
           <ProductItems cartItems={cartItems} />
         </div>

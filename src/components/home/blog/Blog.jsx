@@ -6,7 +6,7 @@ export const Blog = () => {
   return (
     <>
       <section className='blog'>
-        <Heading title='TECH BLOG POSTS' desc='Latest tech news, success stories and web design tutorials.' />
+        <Heading title='TECH BLOG POSTS' desc='Latest tech news,  Web design tutorials.' />
 
         <div className='posts'>
           {blog.slice(0, 3).map((items) => (

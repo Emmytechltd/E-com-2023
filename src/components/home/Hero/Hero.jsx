@@ -20,14 +20,14 @@ export const Hero = () => {
         <div className='container'>
           <h1>
             <label>
-              Over <span>6,500</span> Curated Design
+              Over <span>1,500</span> Apple, Dell, Acer, HP, Lenovo Asus Laptops Available
             </label>
             <br />
             <label>
-              Resources, <span>Graphic & Website </span> Templates
+              Apple🍎 <span>Graphic & Website </span> Accessories
             </label>
           </h1>
-          <p>High-quality Design Themes for personal or commercial use contains 6k+ items in 100 categories.</p>
+          <p>High-quality Design Laptops and Mobile Gadgets for personal or commercial use </p>
           <div className='search'>
             <span>All Categories</span>
             <hr />
@@ -37,7 +37,7 @@ export const Hero = () => {
             </button>
           </div>
           <SearchItems products={products} value={value} onSearch={onSearch} />
-          <p>Examples: Mockup, PSD, Theme Design, Image…</p>
+          <p>Examples: Android, Google Pixel/Chrome Os products, MacOs Product, Software/hardware Technician…</p>
         </div>
       </section>
     </>

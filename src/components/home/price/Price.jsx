@@ -6,7 +6,7 @@ export const Price = () => {
   return (
     <>
       <section className='price'>
-        <Heading title='Choose The Plans' desc='Meet our newbies! The latest templates uploaded to the marketplace.' />
+        <Heading title='Choose Your Desirable Tech product' desc='And Acknowledge the fact that Emmytech delivers the best' />
 
         <div className='content'>
           {price.map((item) => (
@@ -18,7 +18,7 @@ export const Price = () => {
                 <label htmlFor=''>/user per month</label>
               </h1>
               <p>{item.desc}</p>
-              <button className='button'>GET STATRED</button>
+              <button className='button'>Let's Connect🔗</button>
 
               <ul>
                 {item.list.map((lists) => (

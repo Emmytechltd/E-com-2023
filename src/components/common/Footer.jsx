@@ -5,6 +5,7 @@ export const Footer = () => {
     <>
       <footer>
         <p>Copyright © EMMYTECH DIGITAL SOLUTIONS all rights reserved. Powered by TechCoach.</p>
+        
       </footer>
     </>
   )
